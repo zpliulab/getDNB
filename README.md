@@ -6,7 +6,7 @@ We proposed a computational strategy named getDNB to discover dynamic network bi
 * python>=3.9
 * R version 4.3.3
 ## Files:
-*** 1. data process: **The data process contains the original data of data sets GSE6764, GSE89377 and TCGA-LIHC, data processing programs and output results. In data processing programs, it includes the normalization of data, the acquisition of network weights, and the construction of specific temporal networks.
+* 1. data process: The data process contains the original data of data sets GSE6764, GSE89377 and TCGA-LIHC, data processing programs and output results. In data processing programs, it includes the normalization of data, the acquisition of network weights, and the construction of specific temporal networks.
 
 *** 2. graph embedding: **The graph embedding contains the raw data, programs, and outputs used by the graph convolution neural network.
 
