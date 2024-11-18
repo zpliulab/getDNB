@@ -3,7 +3,7 @@
 
 We proposed a computational strategy named getDNB to discover dynamic network biomarker (DNB) by using graph embedding technology (get) for anomaly detection
 ## Requirements
-* python>=3.9
+* python = 3.9
 * R version 4.3.3
 ## Files:
 * **1. data process:** The data process contains the original data of data sets GSE6764, GSE89377 and TCGA-LIHC, data processing programs and output results. In data processing programs, it includes the normalization of data, the acquisition of network weights, and the construction of specific temporal networks.
